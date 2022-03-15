@@ -1,23 +1,23 @@
-/* @title No outline polygon with red fill*/
+/* @title No outline polygon with blue fill*/
 [polyname = 'Polygon1']{
-  fill: #e60b1a;
+  fill: #033dfc;
   fill-opacity: 1;
 }
 
-/* @title No outline polygon with red fill*/
+/* @title No outline polygon with blue fill*/
 [polyname = 'Polygon2']{
-  fill: #e60b1a;
+  fill: #033dfc;
   fill-opacity: 1;
 }
 
-/* @title No outline polygon with red fill*/
+/* @title No outline polygon with blue fill*/
 [polyname = 'Polygon3']{
-  fill: #e60b1a;
+  fill: #033dfc;
   fill-opacity: 1;
 }
 
-/* @title No outline polygon with red fill*/
+/* @title No outline polygon with blue fill*/
 [polyname = 'Polygon4']{
-  fill: #e60b1a;
+  fill: #033dfc;
   fill-opacity: 1;
 }
