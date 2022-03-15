@@ -36,6 +36,7 @@ from cleantable
         <escapeSql>false</escapeSql>
       </virtualTable>
     </entry>
+    <entry key="cachingEnabled">false</entry>
   </metadata>
   <store class="dataStore">
     <id>DataStoreInfoImpl-2ada77ae:17f8c9b7696:-7ffd</id>
