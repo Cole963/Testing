@@ -1,0 +1,15 @@
+version.txt
+NOTICE.md
+etc/
+logs/
+start.ini
+start.jar
+modules/
+lib/
+bin/
+README.txt
+RUNNING.txt
+license/
+resources/
+webapps/
+data_dir/**/*.log
